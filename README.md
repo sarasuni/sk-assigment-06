@@ -16,7 +16,7 @@ The motivation behind this project is to learn and demonstrate HTML, CSS, Javasc
     * Jquery
     * Moment.js
     * Third party API's (https://api.weatherapi.com/)
-    
+
 ### Website Screen Shots: ###
 ![image](./screenshots/screenshot-1.png)
 
@@ -29,7 +29,8 @@ The motivation behind this project is to learn and demonstrate HTML, CSS, Javasc
 4. The weather forcast includes conditions such as Temperature, Wind speed, Humdity and UV Index.
 5. This application stores past searches and displays the list of cities.
 
-Live deployed link:
+Live deployed link: 
+https://sarasuni.github.io/sk-assigment-06/
 
 ## Username:
 
