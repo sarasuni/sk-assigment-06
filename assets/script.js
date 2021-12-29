@@ -110,7 +110,7 @@ var displayUvIndex = function(index){
 
 var get3DayForecast = function (city){
     var apiKey = "6e66f544e0ed4dcdb02203527212812"
-    var apiURL = `http://api.weatherapi.com/v1/forecast.json?key=${apiKey}&q=${city}&days=5&aqi=no&alerts=no`
+    var apiURL = `https://api.weatherapi.com/v1/forecast.json?key=${apiKey}&q=${city}&days=5&aqi=no&alerts=no`
 
     fetch(apiURL)
     .then(function(response){
